@@ -19,7 +19,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Feel free to contact me at</Slogan>
+          <Slogan>Feel free to contact me on</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://twitter.com/HarshitAditya1">
