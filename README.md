@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Deployed Link: https://portfolio-prototype-cp8lk16fe-harshitaditya27.vercel.app/
